@@ -2,7 +2,7 @@
 
 Simple Go backend boilerplate dengan **Gin**, **PostgreSQL**, JWT authentication, dan protected routes.
 
-![demo-gif](https://ibb.co/r2jVnYM3)  
+![demo-gif](https://i.ibb.co/r2jVnYM3/dancing-gopher.gif)  
 
 ---
 
