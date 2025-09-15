@@ -1,4 +1,4 @@
-module github.com/yourname/go-backend-boilerplate-lite
+module github.com/alifslhdn/go-backend-boilerplate-lite
 
 go 1.23.4
 
