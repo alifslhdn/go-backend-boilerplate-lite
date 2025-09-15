@@ -1,8 +1,7 @@
 # Go Backend Lite (Free Version) 🚀
 
-Simple Go backend boilerplate dengan **Gin**, **PostgreSQL**, JWT authentication, dan protected routes.
-
-![demo-gif](https://i.ibb.co/r2jVnYM3/dancing-gopher.gif)  
+Simple Go backend boilerplate dengan **Gin**, **PostgreSQL**, JWT authentication, dan protected routes.<br/><br/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/WvhLSZF0/dancing-gopher.gif" alt="dancing-gopher" border="0"></a>
 
 ---
 
