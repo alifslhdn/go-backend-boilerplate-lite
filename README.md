@@ -25,7 +25,7 @@ Simple Go backend boilerplate dengan **Gin**, **PostgreSQL**, JWT authentication
 
 1. Clone repo:  
 ```bash
-git clone https://github.com/username/go-backend-boilerplate-lite.git
+git clone https://github.com/alifslhdn/go-backend-boilerplate-lite.git
 cd go-backend-boilerplate-lite
 ```
 2. Copy .env.example → .env dan update values:
